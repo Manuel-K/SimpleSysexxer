@@ -1,11 +1,12 @@
 TEMPLATE = app
 TARGET = simplesysexxer
-target path = /usr/local/bin
 DEFINES += __LINUX_ALSASEQ__
 RESOURCES += binincludes/binincludes.qrc
 LIBS += -lasound
 QMAKE_CXXFLAGS = -O0 -g3
 # QT += sql
+
+QT += widgets
 
 # Uncomment this to get a non-debug binary
 CONFIG += qt release

@@ -26,7 +26,7 @@
 #include <alsa/asoundlib.h> 
 
 #include <QSettings>
-#include <QtGui>
+#include <QtWidgets>
 
 #include "ui_MainWindow.h"
 #include "MidiIn.h"
