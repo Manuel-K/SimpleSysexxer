@@ -62,7 +62,7 @@ void MidiOut::run()
         // Some synths cannot cope with too much sysex events in a given period of time.
         // Via a config option, some additional delay between sysex events can be added.
         QSettings appSettings;
-        unsigned int delay = (appSettings.value( "SendingDelay", 100 ).toInt() );
+        unsigned int delay = (appSettings.value( "SendingDelay", 250 ).toInt() );
         // Create the settings entry in case it didn't exist yet
         appSettings.setValue( "SendingDelay", delay );
         msleep( delay );
