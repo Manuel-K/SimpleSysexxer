@@ -1,0 +1,21 @@
+# Build Files
+Makefile
+moc_*
+qrc_*.cpp
+*.moc
+*.o
+*.dll
+ui_*
+*.pro.user
+
+build
+
+SimpleSysexxer
+*.exe
+
+# Archives
+*.tar.gz
+*.tar.bz2
+*.zip
+*.7z
+
