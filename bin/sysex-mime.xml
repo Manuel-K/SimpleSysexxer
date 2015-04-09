@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!-- See http://kapo-cpp.blogspot.com/2008/02/register-your-own-mime-type-on-free.html --> 
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/x-sysex">
+  
+    <comment>MIDI System Exclusive Data</comment>
+    <comment xml:lang="de">MIDI System-Exclusive Daten</comment>
+    
+    <sub-class-of type="audio/midi"/>
+
+    <glob pattern="*.syx"/>
+
+  </mime-type>
+</mime-info>
+

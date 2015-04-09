@@ -1,0 +1,14 @@
+=== V 0.1, somewhere back in 2006 ===
+
+Initial release. Totally unusable and buggy version.
+
+=== V 0.2, Released in August of 2009 ===
+
+Completely rewritten backend code and UI. In fact a new application.
+
+=== V 0.3, Released in December of 2009 ===
+
+* Dropped RtMidi.
+* Complete ALSA MIDI support done in own code.
+* Simple Sysexxer now can handle Sys'Ex data even if it was greater than 256 Bytes (ALSA buffer size).
+

@@ -1,0 +1,14 @@
+[Desktop Entry]
+BinaryPattern=simplesysexxer;
+Encoding=UTF-8
+Name=Simple Sysexxer
+Name[de]=Simple Sysexxer
+Exec=simplesysexxer %i %m -caption "%c"
+Icon=simplesysexxer
+Type=Application
+MimeType=audio/x-sysex;
+Comment=A tool to send and receive MIDI SysEx data
+Comment[de]=Ein Hilfsprogramm, um SysEx-Daten mit MIDI-Geräten auszutauschen
+Terminal=0
+Categories=Qt;Audio
+

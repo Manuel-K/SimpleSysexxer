@@ -1,0 +1,9 @@
+=== General ===
+
+If you want to compile from source, you need a development environment and the QT4 class library installed.
+
+Open a terminal window and cd to the directory containing the file SimpleSysexxer.pro.
+
+* Run qmake SimpleSysexxer.pro to create the Makefiles. Use Qt 4.5.0 or above. Previous versions probably won't work
+* run make to build the application
+* Move the resulting binary called 'simplesysexxer' to a directory of your likings or type make install to copy it to /usr/local/bin

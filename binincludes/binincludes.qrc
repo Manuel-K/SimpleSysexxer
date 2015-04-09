@@ -1,0 +1,43 @@
+<!DOCTYPE RCC>
+  <RCC version="1.0">
+    <qresource>
+      <file>icons/AppIcon.png</file>
+
+      <file>icons/FileClear.png</file>
+      <file>icons/FileOpen.png</file>
+      <file>icons/FileSaveas.png</file>
+      <file>icons/FileQuit.png</file>
+      <file>icons/FileReceive.png</file>
+      <file>icons/FileCancelTransmission.png</file>
+      <file>icons/FileTransmit.png</file>
+
+      <file>translations/de_DE.qm</file>
+      <file>translations/en_EN.qm</file>
+      <file>translations/fr_FR.qm</file>
+
+      <file>models/ManufacturerDatabase.conf</file>
+
+      <file>models/model_images/empty.png</file>
+      <file>models/model_images/various.png</file>
+      <file>models/model_images/unknown.png</file>
+      <file>models/model_images/Access_VirusC.png</file>
+      <file>models/model_images/Alesis_QuadraSynth.png</file>
+      <file>models/model_images/Behringer_FCB1010.png</file>
+      <file>models/model_images/Behringer_VAmp2.png</file>
+      <file>models/model_images/Digitech_StudioQuad.png</file>
+      <file>models/model_images/Hammond_XB1.png</file>
+      <file>models/model_images/Maudio_Midisport8x8.png</file>
+      <file>models/model_images/Maudio_TriggerFinger.png</file>
+      <file>models/model_images/Korg_M3r.png</file>
+      <file>models/model_images/Korg_MS2000.png</file>
+      <file>models/model_images/Novation_Supernova-II.png</file>
+      <file>models/model_images/Roland_A50.png</file>
+      <file>models/model_images/Roland_D50.png</file>
+      <file>models/model_images/Roland_U20.png</file>
+      <file>models/model_images/Waldorf_Microwave.png</file>
+      <file>models/model_images/Waldorf_microq.png</file>
+      <file>models/model_images/Yamaha_SY22.png</file>
+    </qresource>
+  </RCC>
+
+

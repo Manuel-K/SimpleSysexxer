@@ -1,0 +1,12 @@
+[Desktop Entry]
+Comment=System exclusive MIDI data
+Comment[de]=Systemexklusive MIDI-Daten
+DefaultApp=sysexxer
+Hidden=false
+Icon=midi
+MimeType=audio/x-sysex
+Name=SysEx-Data
+Name[de]=SysEx-Daten
+Patterns=*.syx;*.SYX;*.Syx;*.SYx;*.SyX;*.sYX;*.syX;
+Type=MimeType
+X-KDE-AutoEmbed=false

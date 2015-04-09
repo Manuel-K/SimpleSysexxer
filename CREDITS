@@ -1,0 +1,9 @@
+Credits go to:
+
+* Gary P. Scavone for the RtMidi classes used in this application
+* The folks at linux-audio-dev@lists.linuxaudio.org and linux-audio-user@lists.linuxaudio.org
+* Frank Neumann and Christian Nitschkowski for helping me with coding issues whenever necessary
+* Raphaël Doursenaud for the french translation and a patch to translate default QT strings
+* Gabriel M. Beddingfield for intensive testing with a Korg MS2000
+* All I forgot :)
+
